@@ -45,4 +45,8 @@ It demonstrates the ability to translate business questions into efficient SQL q
 - Using window functions for business analysis
 - Translating data outputs into insights
 
+## Project Files
+- `analysis.sql` contains all table creation statements and SQL queries (Q1–Q8) used for this analysis.
+
+
 
